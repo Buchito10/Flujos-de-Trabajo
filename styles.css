@@ -2,7 +2,8 @@
   box-sizing: border-box;
 }
 
-:root { --header-bg: #1d4ed8; }
+:root { --header-bg: #9333ea; }
+
 
 body {
   margin: 0;
